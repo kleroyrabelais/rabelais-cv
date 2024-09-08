@@ -1,3 +1,11 @@
-.indent {
-    padding-left: 20px; /* Ajustez la valeur selon vos besoins */
+.espace {
+    padding-left: 20px;
+}
+.espace2 {
+    padding-left: 70px;
+}
+#alignement {
+    position: relative
+    left: 130px;
+    top: 100px;
 }
