@@ -1,0 +1,21 @@
+img {position: relative;
+    top: auto;
+left: 1100px;
+width: 250px;}
+
+body {background-color: rgb(57, 109, 70);}
+
+.beauté{border-style : solid dashed}
+
+html{
+margin-right: 200px;
+margin-left: 200px;
+margin-top: 50px;}
+
+.gras{font-weight: bold;}
+
+a:link{color: rgb(151, 2, 2);}
+a:hover{color:rgb(40, 168, 168)}
+a:link{text-decoration: none;}
+
+.espace{text-indent: 200px;}
