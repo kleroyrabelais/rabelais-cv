@@ -1,11 +1,11 @@
 img {position: relative;
     top: auto;
-left: 1100px;
+left: 200px;
 width: 250px;}
 
 body {background-color: rgb(57, 109, 70);}
 
-.beauté{border-style : solid dashed}
+.beauté{border-style : dotted}
 
 html{
 margin-right: 200px;
